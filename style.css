@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Merriweather&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Merriweather&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Merriweather&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Merriweather&display=swap');
+*{
+margin: 0;
+padding: 0;
+}
+.container{
+  max-width: 80vw;
+ 
+}
+.navbar{
+    display: flex;
+    height: 67px;
+    font-family:'Roboto Slab', sans-serif;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.topleft{
+width: 50%;
+
+}
+
+.topright{
+width: 50%;
+margin-left: 108rem;
+  margin-top: -21rem;
+
+}
+.min-h-screen {
+     min-height: 100vh;
+ }
+
+ .bg-red {
+     background-color: red;
+ }
+
+ .mx-auto {
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ .container {
+     max-width: 80vw;
+ }
+
+ .flex {
+     display: flex;
+ }
+
+ .items-center {
+     align-items: center;
+ }
+
+ .justify-between {
+     justify-content: space-between;
+ }
+
+ .justify-center {
+     justify-content: center;
+ }
+
+ .flex-col {
+     flex-direction: column;
+ }
+
+ .font-bold {
+     font-family: 'Poppins', sans-serif;
+     font-weight: bolder;
+     font-size: 2rem;
+ }
+
+ .my-1 {
+     margin-top: 284px;
+     margin-bottom: 12px;
+     margin-left: 56px;
+     font-family: 'DM Serif Display', sans-serif;
+     font-size: 42px;
+     color: rgb(104, 10, 45);
+ }
+
+ .paragraph {
+     margin-left: 57px;
+     font-size: medium;
+     font-weight: lighter;
+     font-family: 'Poppins', sans-serif;
+     color: rgb(56, 52, 52);
+ }
+
+ .btn {
+     margin-left: 61px;
+     background-color: rgb(239, 44, 135);
+     font-family: 'Hind Siliguri', sans-serif;
+     font-size: 16px;
+     cursor: pointer;
+     color: white;
+     border-radius: 12px;
+     padding: 2px 10px;
+     border: 2px solid rgb(94, 6, 47);
+     margin-top: 13px;
+ }
+
+.section1{
+   max-height: 100vh;
+   background-color: rgb(251, 233, 132);
+}
+
+.section1 h1{
+  font-size: 2rem;
+}
+
+.topright .gymimg{
+  width: 675px;
+  height: 641px;
+  margin-right: 101px;
+  margin-top: -90px;
+}
+.section2{
+ padding: 75px;
+ background-color:pink ;
+}
+.section2 h1{
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 5px;
+
+}
+.section2 p{
+  padding: 0 5vw;
+  text-align: center;
+}
+.box{
+  padding: 8px 0;
+  margin: 12px 22px;
+  width: 30vw;
+  border: 2px solid rgb(94, 6, 47);
+  border-radius: 8px;
+  text-align: center;
+}
+.box h2{
+  padding: 10px 0;
+  background-color: #ffec86;;
+}
+.box ul{
+  list-style-type: none;
+}
+.box ul li{
+  margin: 12px 2px;
+}
+.plantable{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section3 table{
+  width: 100%;
+  margin-bottom: 140px;
+  margin-top: 40px;
+  border-collapse: collapse;
+}
+.section3 table th{
+  width: 23vw;
+  border-bottom: 2px solid black;
+  padding: 15px;
+}
+.section3 table td{
+  border-bottom: 2px solid black;
+}
+.section3 h1{
+  font-size: 2.3rem;
+  text-align: center;
+}
+.section3{
+  padding: 75px;
+}
+footer{
+  padding: 23px;
+  text-align: center;
+  color: white;
+}
